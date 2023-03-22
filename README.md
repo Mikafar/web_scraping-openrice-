@@ -1,2 +1,2 @@
-# web_scraping-openrice-
+# web_scraping(openrice)
 scrape openrice page
