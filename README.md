@@ -1,6 +1,6 @@
-# web_scraping
+# web scraping
 
-learning outcome:
+**learning outcome:**
 
 1. Use flask as a simple web server
 
